@@ -1,3 +1,3 @@
 # Moive App 2019
 
-React JS Fundamentals Course (2019 Update)
+This is my first app of React JS Fundamentals Course (2019 Update)
